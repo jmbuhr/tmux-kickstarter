@@ -7,7 +7,7 @@ Either manually or with (if you don't already have a tmux config):
 ```bash
 cd ~
 wget https://raw.githubusercontent.com/jmbuhr/tmux-kickstarter/main/.tmux.conf
-``d`
+```
 
 Then:
 
